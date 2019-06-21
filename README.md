@@ -2,7 +2,7 @@
 
 SalinityGraph.py is a script which fits salinity data from cores to an overall distribution curve. 
 
-It requries installation of numpy, matplotlib, and scipy libraries for python3.
+It requries installation of NumpPy, Matplotlib, and SciPy libraries for python3.
 
 Save elevations in a file titled "[corename]E.txt" and corresponding salinities in a file titled "[corename]S.txt".
 
