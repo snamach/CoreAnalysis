@@ -12,6 +12,6 @@ To run, simply enter the following in the terminal:
 
 python3 SalinityGraph.py [regression] [fit] [corename1] [corename2] [corename3] [etc.]
 
-For example, in order to fit a sigmoidal curve to an aggregate dataset from PM1-1, DP1-1, and DP2-1, enter:
+For example, in order to fit an aggregate dataset from PM1-1, DP1-1, and DP2-1 to a sigmoidal curve, enter:
 
 python3 SalinityGraph.py Sig agg PM1-1 DP1-1 DP2-1
