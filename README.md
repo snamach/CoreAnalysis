@@ -6,7 +6,7 @@ It requries installation of NumpPy, Matplotlib, and SciPy libraries for python3.
 
 Save elevations in a file titled "[corename]E.txt" and corresponding salinities in a file titled "[corename]S.txt".
 
-The script provides three fit options (avg, wavg, and agg) and three regression options (Exp, Cub, and Sig). 
+The script provides three regression options (Exp, Cub, and Sig) and three fit options (avg, wavg, and agg). 
 
 To run, simply enter the following in the terminal:
 
